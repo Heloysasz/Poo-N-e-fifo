@@ -1,17 +1,17 @@
-# A DIFERENÇA ENTRE FIFO E LIFO  
+# A DIFERENÇA ENTRE FIFO E LIFO
 
-## FIFO (First In, First Out)  
+## FIFO (First In, First Out)
 
-### **O primeiro a entrar é o primeiro a sair.**  
+### **O primeiro que entra é o primeiro que sai.**
 
-## O método FIFO segue a ordem cronológica de entrada dos produtos.  
-## É o mais usado em estoques de alimentos e produtos com validade, pois evita que itens fiquem parados por muito tempo.  
-## Esse sistema representa o fluxo natural de mercadorias e é aceito internacionalmente como o mais equilibrado e seguro.  
+## O método FIFO é utilizado para garantir que os produtos mais antigos do estoque sejam vendidos ou usados antes dos mais novos.  
+## É o modelo mais comum em empresas que lidam com alimentos, medicamentos e produtos perecíveis, pois evita perdas por vencimento.  
+## Além de refletir o fluxo natural dos itens, o FIFO representa melhor o custo real do estoque e é amplamente aceito pelas normas contábeis internacionais.
 
-## LIFO (Last In, First Out)  
+## LIFO (Last In, First Out)
 
-### **O último que entra é o primeiro que sai.**  
+### **O último que entra é o primeiro que sai.**
 
-## O método LIFO segue o caminho inverso: o produto mais novo é o primeiro a ser utilizado ou vendido.  
-## Em períodos de aumento de custos, ele faz com que as saídas usem os valores mais recentes, o que reduz o lucro contábil e, em alguns casos, o valor de impostos.  
-## Apesar disso, é menos usado atualmente, por não refletir com precisão o movimento real dos produtos.  
+## No método LIFO, os itens mais recentes são os primeiros a sair do estoque.  
+## Esse método pode ser vantajoso em períodos de alta nos preços, pois associa os custos mais atuais às vendas, reduzindo o lucro tributável.  
+## No entanto, ele tende a deixar os produtos antigos armazenados por mais tempo, sendo pouco recomendado para materiais com validade limitada.
